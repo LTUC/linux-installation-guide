@@ -21,7 +21,15 @@ So, for this step you will need the following:
 - An empty USB drive that has at least 3GB of space.
 - Downloading the Rufus Software from the [Rufus website](https://rufus.ie/en_US/)
 
-Rufus is a Windows tool that will help you create the Bootable Linux USB drive.
+Rufus is a Windows tool that will help you create the Boot-able Linux USB drive.
 
+## Steps Summary
 
-### [⇐ Home](../README.md) | [Next ⇒](./guide/1-download-and-boot.md)
+- Download the [Manjaro Linux ISO](https://manjaro.org/downloads/official/kde/)
+- Download the [Rufus Boot-able USB Drive tool](https://rufus.ie/en_US/)
+- Place a USB drive that has more than 3G into your laptop
+- Open up Rufus.
+
+## Steps coming soon
+
+### [⇐ Home](../README.md) | [Next ⇒](./2-booting-live-usb.md)
