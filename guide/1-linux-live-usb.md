@@ -32,4 +32,4 @@ Rufus is a Windows tool that will help you create the Boot-able Linux USB drive.
 
 ## Steps coming soon
 
-### [⇐ Home](../README.md) | [Next ⇒](./2-booting-live-usb.md)
+### [⇐ Home](../index.md) | [Next ⇒](./2-booting-live-usb.md)
