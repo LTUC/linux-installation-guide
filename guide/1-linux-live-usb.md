@@ -2,34 +2,54 @@
 
 The first thing you will need to do is to download the ISO file for the Manjaro KDE Linux, the ISO file is basically a file containing in it all the Linux Operating system that we will use to install Linux on your device.
 
-## Download the ISO
+## Steps to cover
 
-- Use this [link](https://manjaro.org/downloads/official/kde/) to go to the download page of Manjaro Linux
+1. [Download the Manjaro Linux ISO.](#downloading-the-iso)
 
-- Choose either Direct Download or Torrent, whichever works with your internet connection
+2. [Download the Rufus Boot-able USB Drive tool.](#downloading-the-rufus-tool)
 
-- After finishing the download, move to the next step
+3. [Burn the Linux ISO file into rufus.](#burning-the-linux-iso-file-on-a-usb)
 
-## Boot the ISO
+## Downloading the ISO
+
+- Use this [link](https://manjaro.org/downloads/official/kde/) to go to the download page of Manjaro Linux.
+
+- Choose either Direct Download or Torrent, whichever works with your internet connection.
+
+- After the download finishes, move to the next step.
+
+## Downloading the Rufus Tool
+
+- Go to the Rufus website [Rufus website](https://rufus.ie/en_US/)
+
+- Download the latest update version of Rufus.
+
+- After the download finishes, move to the next step.
+
+## Burning the Linux ISO file on a USB
 
 In this step you will create a Boot-able USB drive in order for you to load Linux and start the installation process.
-
-The reason its called boot-able USB, is because the USB will boot (load/ read) its content (the Linux ISO file) on the laptop.
 
 So, for this step you will need the following:
 
 - An empty USB drive that has at least 3GB of space.
-- Downloading the Rufus Software from the [Rufus website](https://rufus.ie/en_US/)
 
-Rufus is a Windows tool that will help you create the Boot-able Linux USB drive.
+After getting a USB drive continue the steps below:
 
-## Steps Summary
+1. Insert the USB drive into your computer
 
-- Download the [Manjaro Linux ISO](https://manjaro.org/downloads/official/kde/)
-- Download the [Rufus Boot-able USB Drive tool](https://rufus.ie/en_US/)
-- Place a USB drive that has more than 3G into your laptop
-- Open up Rufus.
+2. Start up rufus software
 
-## Steps coming soon
+3. Next to the Boot section you will find an option to select the Linux file you just downloaded.
+
+4. After Selecting the Linux file, it will auto load the configuration.
+
+5. Click Start at the bottom.
+
+6. After it finishes burning, you will see the green bar completed which means it is Ready.
+
+7. While the USB is still plugged in restart your computer.
+
+### Now you are ready for the next part
 
 ### [⇐ Home](../index.md) | [Next ⇒](./2-booting-live-usb.md)
