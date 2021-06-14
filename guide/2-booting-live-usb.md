@@ -5,3 +5,5 @@ In this step, we will walk you through the process of booting into the Linux Liv
 ## Steps coming soon
 
 ### [⇐ Previous](./1-linux-live-usb.md) | [Next ⇒](./3-installing-manjaro-linux.md)
+
+### [⇐⇐ Home](../index.md)
