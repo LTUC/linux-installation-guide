@@ -16,6 +16,8 @@ The first thing you will need to do is to download the ISO file for the Manjaro 
 
 - Choose either Direct Download or Torrent, whichever works with your internet connection.
 
+![manjaro-linux](../assets/linux-download-page.png)
+
 - After the download finishes, move to the next step.
 
 ## Downloading the Rufus Tool
@@ -23,6 +25,8 @@ The first thing you will need to do is to download the ISO file for the Manjaro 
 - Go to the Rufus website [Rufus website](https://rufus.ie/en_US/)
 
 - Download the latest update version of Rufus.
+
+![rufus](../assets/rufus-download-page.png)
 
 - After the download finishes, move to the next step.
 
